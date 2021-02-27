@@ -1,0 +1,12 @@
+集合
+
+list，set单链
+map双链
+
+ArrayList，LinkLIst线程不安全
+Vector线程安全
+
+ArrayList查询快，增删改查慢（进行复制操作）
+LinkList查询慢，增删改查块（双向链表）
+
+
